@@ -1,4 +1,4 @@
-# MATLAB
+# MATLAB PLAYGROUND
 **logarithmic_spiral**
 
 A logarithmic spiral, equiangular spiral, or growth spiral is a self-similar spiral curve that often appears in nature. The first to describe a logarithmic spiral was Albrecht Dürer who called it an "eternal line". - Wikipedia
