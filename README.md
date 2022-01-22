@@ -3,4 +3,4 @@
 
 **Leminscate.m**
 
-The infinity symbol ∞ (sometimes called the lemniscate) is a mathematical symbol representing the concept of infinity.
+Lemniscate, is also known as the infinity symbol ∞, is a mathematical symbol representing the concept of infinity.
